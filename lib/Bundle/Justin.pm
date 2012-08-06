@@ -12,7 +12,7 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
 =head1 SYNOPSIS
 
-  perl -MCPAN -e 'install Bundle::Justin'
+  perl -Ilib -MCPAN -e 'install Bundle::Justin'
 
 =head1 CONTENTS
 

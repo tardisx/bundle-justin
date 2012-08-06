@@ -16,9 +16,14 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
 =head1 CONTENTS
 
+  YAML
+  
   DBI
   DBD::Pg
 
+  Data::Page
+  Data::Random
+  
   DateTime
 
   Mojolicious

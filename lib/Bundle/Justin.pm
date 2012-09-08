@@ -16,6 +16,7 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
 =head1 CONTENTS
 
+  Moose
   YAML
   
   DBI
@@ -23,10 +24,17 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
   Data::Page
   Data::Random
+  JSON::XS
+  JSON
   
   DateTime
 
+  Email::Valid
+  Facebook::Graph
+  LWP
+
   Mojolicious
+  POE
 
 =head1 AUTHOR
 

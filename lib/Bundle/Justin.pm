@@ -16,25 +16,30 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
 =head1 CONTENTS
 
-  Moose
-  YAML
-  
   DBI
   DBD::Pg
+
+  Rose::DB
+  Rose::DB::Object
+
+  Mojolicious
 
   Data::Page
   Data::Random
   JSON::XS
   JSON
+  Lingua::EN::Numbers::Ordinate
+  Digest::SHA1
   
   DateTime
+  Time::Duration
 
   Email::Valid
-  Facebook::Graph
   LWP
 
-  Mojolicious
   POE
+
+  Devel::hdb
 
 =head1 AUTHOR
 

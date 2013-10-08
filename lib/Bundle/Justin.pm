@@ -42,6 +42,8 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   Devel::hdb
   App::Ack
 
+  Perl::Critic
+
 =head1 AUTHOR
 
 Justin Hawkins E<lt>justin@cpan.orgE<gt>

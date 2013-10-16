@@ -34,6 +34,8 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   DateTime
   Time::Duration
 
+  CHI
+
   Email::Valid
   LWP
 

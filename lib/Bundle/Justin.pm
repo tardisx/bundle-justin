@@ -45,6 +45,7 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   App::Ack
 
   Perl::Critic
+  Log::Log4perl
 
 =head1 AUTHOR
 

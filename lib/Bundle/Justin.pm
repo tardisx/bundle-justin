@@ -39,9 +39,11 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   Email::Valid
   LWP
 
-  POE
-
+  Devel::Cover
+  Devel::REPL
   Devel::hdb
+  PPI
+
   App::Ack
 
   Perl::Critic

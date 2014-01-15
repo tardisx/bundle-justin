@@ -18,11 +18,12 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
   DBI
   DBD::Pg
-
   Rose::DB
   Rose::DB::Object
 
   Mojolicious
+  Email::Valid
+  LWP
 
   Data::Page
   Data::Random
@@ -36,8 +37,7 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
   CHI
 
-  Email::Valid
-  LWP
+  Log::Log4perl
 
   Devel::Cover
   Devel::REPL
@@ -47,7 +47,6 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   App::Ack
 
   Perl::Critic
-  Log::Log4perl
 
 =head1 AUTHOR
 

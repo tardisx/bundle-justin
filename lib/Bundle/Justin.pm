@@ -47,6 +47,7 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   App::Ack
 
   Perl::Critic
+  Perl::Tidy
 
 =head1 AUTHOR
 

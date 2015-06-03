@@ -48,6 +48,7 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   PPI
 
   App::Ack
+  App::Uni
 
   Perl::Critic
   Perl::Tidy

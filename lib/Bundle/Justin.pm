@@ -39,6 +39,7 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
   CHI
 
+  Log::Any
   Log::Log4perl
 
   Devel::Cover

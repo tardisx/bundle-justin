@@ -25,6 +25,8 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   Email::Valid
   LWP
 
+  MCE
+
   Data::Page
   Data::Random
   JSON::XS

@@ -57,6 +57,8 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
   AnyEvent
 
+  Moose
+
 =head1 AUTHOR
 
 Justin Hawkins E<lt>justin@cpan.orgE<gt>

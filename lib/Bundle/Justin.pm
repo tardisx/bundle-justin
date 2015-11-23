@@ -50,8 +50,12 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   App::Ack
   App::Uni
 
+  App::Cmd
+
   Perl::Critic
   Perl::Tidy
+
+  AnyEvent
 
 =head1 AUTHOR
 

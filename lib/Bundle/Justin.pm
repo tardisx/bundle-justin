@@ -59,6 +59,8 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
   Moose
 
+  CPAN::Mini
+
 =head1 AUTHOR
 
 Justin Hawkins E<lt>justin@cpan.orgE<gt>

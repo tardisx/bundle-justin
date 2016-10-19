@@ -22,6 +22,8 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   Rose::DB::Object
 
   Mojolicious
+  Mojo::Pg
+  Minion
   Email::Valid
   LWP
 

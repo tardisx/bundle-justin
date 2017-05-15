@@ -25,7 +25,6 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
   Mojo::Pg
   Minion
   Email::Valid
-  LWP
 
   MCE
 

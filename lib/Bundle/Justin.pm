@@ -60,7 +60,11 @@ Bundle::Justin - A bundle to install the stuff I like from CPAN.
 
   Moose
 
+  Carton
+
   CPAN::Mini
+
+  Net::Facebook::Oauth2
 
 =head1 AUTHOR
 
